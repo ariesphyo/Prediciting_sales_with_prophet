@@ -1,6 +1,6 @@
 # Forecasting sales with Prophet model
 
-This is a weekly_sales prediction based on two years of retail sales data. 
+This analysis is a weekly_sales prediction based on two years of retail sales data. 
 
 **Data**
 
